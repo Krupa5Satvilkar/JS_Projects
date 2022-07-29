@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to top, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+
+}
+
+.col-md-6{
+    margin-top: 150px !important;
+    background-image: linear-gradient(to bottom, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+    border: 5px solid #3d1635 !important;
+}
+
+input[type=button]
+{
+    width: 100%;
+    background-color: #b8235a;
+    color: white;
+    font-weight: bolder;
+    border: 3px solid  #3d1635;
+    ;
+}
+
+input[type=text]
+{
+    width: 100%;
+    
+}
+
+h1
+{
+    color: #3d1635;
+    font-weight: bolder !important;
+    margin-top: 15px;
+}
